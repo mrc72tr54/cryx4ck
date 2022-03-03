@@ -17,7 +17,7 @@ import brutx4.hash
 brutx4.hash.md5(hash,wordlist)
 
 ```
-# Hash to Crack
+#### Hash to Crack
 1. md5
 2. sha256
 3. sha512
